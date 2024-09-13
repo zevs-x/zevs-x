@@ -1,3 +1,3 @@
 <div align="center"> 
-  <img src="https://media.tenor.com/LXk1XrhHfJYAAAAi/betterttv-cat.gif" width="500" height="500" /> 
+  <img src="https://media.tenor.com/iHOlMUuKOYoAAAAM/internet-south-park.gif" width="500" height="500" /> 
 </div>
